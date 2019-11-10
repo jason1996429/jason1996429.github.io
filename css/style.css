@@ -1549,6 +1549,12 @@ p.cursor::after {
 }
 
 .fh5co-wide-content h3{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fh5co-wide-content .title{
     width: 80%; 
     position: relative;
     margin-left: auto;
@@ -1559,12 +1565,9 @@ p.cursor::after {
 
 @media screen and (max-width: 768px) {
     .fh5co-wide-content h3{
-        width: 80%; 
         position: relative;
         margin-left: auto;
         margin-right: auto;
-        margin-bottom: 30px;
-    
     }
 }
 

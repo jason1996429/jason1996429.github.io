@@ -789,6 +789,13 @@ body.offcanvas .fh5co-nav-toggle {
     margin-top: 5px;
     font-size: 50px;
 }
+.fh5co-feature .fh5co-icon-contact {
+    /* float: left; */
+    /* width: 10%; */
+    /* display: block; */
+    /* margin-top: 5px; */
+    font-size: 50px;
+}
 
 .fh5co-feature .fh5co-icon i {
     color: rgb(231, 86, 125);
